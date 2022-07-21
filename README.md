@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michelle422
 - 👀 I’m interested in software development, data processing and generation, front-end development, backend development
-- 🌱 I’m currently learning Java, Javascript, Spring, React
+- 🌱 I’m currently learning Java, Javascript, Spring, COBOL, JCL, TSO, DB2, and ISPF
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me chelo.pablo@gmail.com, +4746283157
 
