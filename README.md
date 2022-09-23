@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michelle422
 - 👀 I’m interested in software development, data processing and generation, front-end development, backend development
-- 🌱 I’m currently learning Java, Javascript, Spring, Hibernate, Angular, Typescript, and microservices
+- 🌱 I’m currently learning Java, SQL, Spring, Hibernate, Angular, Typescript, and microservices
 - 📫 How to reach me: chelo.pablo@gmail.com, +4746283157
 
 <!---
